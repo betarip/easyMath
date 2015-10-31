@@ -1,0 +1,97 @@
+body
+{
+	font-family: 'Roboto', sans-serif;
+	background-color: #B9DEF2;
+}
+img
+{
+	width: 250px;
+	height: 250px;
+}
+h1
+{
+	font-family: 'Roboto', sans-serif;
+}
+.mediano
+{
+	font-size: 1.5em;
+}
+.img-principal
+{
+	max-width: 250px;
+}
+.quitar-float
+{
+	float: none;
+}
+.espacio-arriba
+{
+	margin-top: 150px;
+}
+.espacio-arriba-pequeno
+{
+	margin-top: 50px;
+}
+.pacifico
+{
+	font-family: 'Pacifico', cursive;
+}
+.container-left
+{
+	position: fixed;
+	top: 100px;
+	left: 0px;
+	width: 300px;
+	height: 700px;
+}
+.align-left
+{
+	top: 100px;
+	left: 0px;
+	padding-left: 400px;
+}
+.container-right
+{
+	position: fixed;
+	top: 100px;
+	right: 0px;
+	width: 300px;
+	height: 700px;
+}
+.container-center
+{
+	padding-left: 370px;
+	padding-right:370px;
+}
+.grande
+{
+	font-size: 4em;
+}
+.accent-color{
+	color: #00796B;
+}
+
+.padding-largo
+{
+	padding: 5px 25px;
+}
+.inline-block
+{
+	float: none;
+	display: inline-block;
+	margin-right: -8px;
+}
+.vete-arriba
+{
+	vertical-align: top;
+	margin-top: 100px;
+}
+.container-ch
+{
+}
+
+.control-label{
+
+	text-align: left;
+}
+
